@@ -1,3 +1,4 @@
 # A2GNN
+I am trying to arrange my code now.
 
-Code will be available soon.
+Code will be released before 20th Aug.
